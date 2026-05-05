@@ -29,4 +29,5 @@ gptc-cc/
 
 ## Article Index
 
-Articles will be added under the corresponding `articles/` directory after review.
+- GPTC.cc: [ChatGPT Plus 支付失败怎么办？先确认扣款、订单状态和重试边界](gptc-cc/articles/chatgpt-plus-zhifu-shibai.md)
+- GPTC.cc: [ChatGPT Plus 银行卡被拒怎么办？先按 5 步排查](gptc-cc/articles/chatgpt-plus-yinhangka-bei-ju.md)
