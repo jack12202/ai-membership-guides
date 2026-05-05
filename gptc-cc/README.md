@@ -12,4 +12,4 @@ Focus:
 
 Articles:
 
-- Coming soon
+- [ChatGPT Plus 支付失败怎么办？先确认扣款、订单状态和重试边界](articles/chatgpt-plus-zhifu-shibai.md)
