@@ -1,33 +1,40 @@
 # AI Membership Guides
 
-Independent guides for AI memberships, upgrades, payments, and troubleshooting.
+Independent public guides for AI memberships, upgrades, payments, and troubleshooting.
 
-This repository is organized by site:
+This repository collects short guide versions of articles published on three related sites:
 
-```text
-gpt4-pro/
-  articles/    Advanced plan comparisons and upgrade guides.
-gplus-cc/
-  articles/    Beginner-friendly setup and payment guides.
-gptc-cc/
-  articles/    Fast troubleshooting for payment, renewal, and delivery issues.
-```
+- [GPT4.pro](https://www.gpt4.pro): plan comparisons and upgrade decisions.
+- [GPlus.cc](https://www.gplus.cc): beginner setup, first-time opening, and payment basics.
+- [GPTC.cc](https://www.gptc.cc): payment failures, card declines, pending status, and renewal issues.
 
-## Site Directories
+Each directory keeps its own brand and article index. The goal is to make the public GitHub version easy to read while linking back to the matching website article for the full page.
 
-- [GPT4.pro](https://www.gpt4.pro): plan comparisons, Pro / Plus / Team / API decisions, and advanced upgrade topics.
-- [GPlus.cc](https://www.gplus.cc): beginner setup, payment methods, and first-time ChatGPT Plus opening guides.
-- [GPTC.cc](https://www.gptc.cc): payment failures, renewal issues, pending orders, and self-service troubleshooting.
+## Directory Index
 
-## Publishing Rules
+- [GPT4.pro guide index](gpt4-pro/README.md)
+- [GPlus.cc guide index](gplus-cc/README.md)
+- [GPTC.cc guide index](gptc-cc/README.md)
 
-- Each article should belong to exactly one site directory.
-- Each article should link only to its corresponding site.
-- Do not reuse the same article across multiple site directories.
-- Do not make absolute promises such as official partnership, guaranteed success, zero risk, or permanent stability.
-- Explain third-party status clearly when discussing ChatGPT, OpenAI, Claude, Grok, or other AI services.
+## Latest Articles
 
-## Article Index
+### GPT4.pro
 
-- GPTC.cc: [ChatGPT Plus 支付失败怎么办？先确认扣款、订单状态和重试边界](gptc-cc/articles/chatgpt-plus-zhifu-shibai.md)
-- GPTC.cc: [ChatGPT Plus 银行卡被拒怎么办？先按 5 步排查](gptc-cc/articles/chatgpt-plus-yinhangka-bei-ju.md)
+- [ChatGPT Plus 和 Pro 怎么选？升级前先确认这几件事](gpt4-pro/articles/upgrade-guide-pro.md)
+- [国内用户使用 ChatGPT Plus 前，要先准备什么？](gpt4-pro/articles/how-to-use-gpt.md)
+
+### GPlus.cc
+
+- [ChatGPT Plus 开通前，哪些账号风险要先避开？](gplus-cc/articles/security-risk-guide.md)
+
+### GPTC.cc
+
+- [ChatGPT Plus 支付失败怎么办？先确认扣款、订单状态和重试边界](gptc-cc/articles/chatgpt-plus-zhifu-shibai.md)
+- [ChatGPT Plus 银行卡被拒怎么办？先按 5 步排查](gptc-cc/articles/chatgpt-plus-yinhangka-bei-ju.md)
+
+## Publishing Notes
+
+- Each article belongs to exactly one site directory.
+- Each article links only to its corresponding site.
+- A public guide should summarize the useful checks, not duplicate every website CTA.
+- Identity notes should be clear but light; the website page carries the complete service context.

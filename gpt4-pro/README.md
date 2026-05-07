@@ -1,14 +1,23 @@
-# GPT4.pro Articles
+# GPT4.pro Guide Index
 
-Advanced AI membership and upgrade guides for [GPT4.pro](https://www.gpt4.pro).
+Public guide summaries for [GPT4.pro](https://www.gpt4.pro), focused on AI plan comparison and upgrade decisions.
 
-Focus:
+These guides are written for users who want to understand whether they should stay on a basic plan, upgrade to a higher plan, or compare different AI membership types before paying.
 
-- ChatGPT Plus / Pro / Team comparisons
-- OpenAI API vs ChatGPT Plus
-- Claude Pro, Grok, Gemini, and multi-model membership decisions
-- Upgrade suitability, cost, usage limits, and plan boundaries
+## Topics Covered
 
-Articles:
+- ChatGPT Plus / Pro / Team plan decisions
+- OpenAI API vs ChatGPT subscription usage
+- Upgrade suitability by usage frequency and task type
+- Budget, account ownership, and renewal checks before upgrading
 
-- Coming soon
+## Articles
+
+- [ChatGPT Plus 和 Pro 怎么选？升级前先确认这几件事](articles/upgrade-guide-pro.md)
+- [国内用户使用 ChatGPT Plus 前，要先准备什么？](articles/how-to-use-gpt.md)
+
+## Website
+
+For the full upgrade pages and current options, visit:
+
+https://www.gpt4.pro/

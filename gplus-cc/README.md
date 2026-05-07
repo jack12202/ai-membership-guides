@@ -1,14 +1,22 @@
-# GPlus.cc Articles
+# GPlus.cc Guide Index
 
-Beginner-friendly setup and payment guides for [GPlus.cc](https://www.gplus.cc).
+Public guide summaries for [GPlus.cc](https://www.gplus.cc), focused on beginner-friendly ChatGPT Plus opening and payment preparation.
 
-Focus:
+These guides are written for first-time users who want to avoid account confusion, risky credentials, unclear payment paths, and unnecessary repeated attempts.
 
-- How to open ChatGPT Plus
-- Payment method explanations
-- WeChat / Alipay / no-credit-card scenarios
-- First-time setup checks and common beginner questions
+## Topics Covered
 
-Articles:
+- First-time ChatGPT Plus opening checks
+- Account ownership and sensitive information safety
+- Payment preparation for users without familiar overseas payment methods
+- Beginner questions before choosing a service path
 
-- Coming soon
+## Articles
+
+- [ChatGPT Plus 开通前，哪些账号风险要先避开？](articles/security-risk-guide.md)
+
+## Website
+
+For beginner opening options and current pages, visit:
+
+https://www.gplus.cc/
