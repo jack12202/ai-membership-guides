@@ -18,6 +18,7 @@ Each directory keeps its own brand and article index. The goal is to make the pu
 
 ## Latest Articles
 
+- [ChatGPT Plus 支付宝充值可以吗？官方不支持直付时怎么开通](gplus-cc/articles/chatgpt-plus-zhifubao-chongzhi.md)
 ### GPT4.pro
 
 - [ChatGPT Plus 和 Pro 怎么选？升级前先确认这几件事](gpt4-pro/articles/upgrade-guide-pro.md)
