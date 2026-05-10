@@ -13,6 +13,7 @@ These guides are written for users who want to understand whether they should st
 
 ## Articles
 
+- [GPT Pro 是什么？和 Plus 区别、价格与升级建议](articles/gptpro-plus-pro-qubie.md)
 - [ChatGPT Plus 和 Pro 怎么选？升级前先确认这几件事](articles/upgrade-guide-pro.md)
 - [国内用户使用 ChatGPT Plus 前，要先准备什么？](articles/how-to-use-gpt.md)
 
