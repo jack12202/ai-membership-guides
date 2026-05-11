@@ -13,6 +13,7 @@ These guides are written for first-time users who want to avoid account confusio
 
 ## Articles
 
+- [没有境外卡如何给 GPT 充值？先分清卡、应用商店和卡密](articles/meiyou-jingwaika-gpt-chongzhi.md)
 - [ChatGPT Plus 微信充值可以吗？官方网页没有直付入口时怎么开通](articles/chatgpt-plus-weixin-chongzhi.md)
 - [ChatGPT Plus 支付宝充值可以吗？官方不支持直付时怎么开通](articles/chatgpt-plus-zhifubao-chongzhi.md)
 - [ChatGPT Plus 开通前，哪些账号风险要先避开？](articles/security-risk-guide.md)

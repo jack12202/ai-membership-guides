@@ -18,6 +18,7 @@ Each directory keeps its own brand and article index. The goal is to make the pu
 
 ## Latest Articles
 
+- [没有境外卡如何给 GPT 充值？先分清卡、应用商店和卡密](gplus-cc/articles/meiyou-jingwaika-gpt-chongzhi.md)
 - [GPT 充值银行卡被拒怎么办？先看扣款状态再决定下一步](gptc-cc/articles/gpt-chongzhi-yinhangka-bei-ju.md)
 - [GPT Pro 是什么？和 Plus 区别、价格与升级建议](gpt4-pro/articles/gptpro-plus-pro-qubie.md)
 - [ChatGPT Plus 微信充值可以吗？官方网页没有直付入口时怎么开通](gplus-cc/articles/chatgpt-plus-weixin-chongzhi.md)
