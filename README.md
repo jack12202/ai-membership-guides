@@ -18,6 +18,7 @@ Each directory keeps its own brand and article index. The goal is to make the pu
 
 ## Latest Articles
 
+- [gpt成品号购买前先看清：独享号、共享号和代充区别](gplus-cc/articles/gpt-chengpinhao-goumai.md)
 - [ChatGPT Plus 充值付费怎么付款？国内用户先看三条路径](gplus-cc/articles/chatgptplus-chongzhi-fufei.md)
 - [chatGPT代充下单前怎么选：Plus、Pro 和成品号区别](gpt4-pro/articles/chatgpt-daichong-plus-pro.md)
 - [没有境外卡如何给 GPT 充值？先分清卡、应用商店和卡密](gplus-cc/articles/meiyou-jingwaika-gpt-chongzhi.md)
