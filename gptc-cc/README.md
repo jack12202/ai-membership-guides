@@ -14,6 +14,7 @@ These guides are written for users who have already met a concrete problem and w
 
 ## Articles
 
+- [GPT 充值失败怎么办？先按扣款状态分三步处理](articles/gpt-chongzhi-shibai.md)
 - [GPT账号自动发卡平台下单前要看什么：卡密、查单和退款](articles/gpt-zhanghao-zidong-faka-pingtai.md)
 - [GPT 充值银行卡被拒怎么办？先看扣款状态再决定下一步](articles/gpt-chongzhi-yinhangka-bei-ju.md)
 - [ChatGPT Plus 续费失败怎么办？先看订阅状态和扣款记录](articles/chatgpt-plus-xufei-shibai.md)

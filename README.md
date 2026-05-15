@@ -18,6 +18,7 @@ Each directory keeps its own brand and article index. The goal is to make the pu
 
 ## Latest Articles
 
+- [GPT 充值失败怎么办？先按扣款状态分三步处理](gptc-cc/articles/gpt-chongzhi-shibai.md)
 - [GPT账号自动发卡平台下单前要看什么：卡密、查单和退款](gptc-cc/articles/gpt-zhanghao-zidong-faka-pingtai.md)
 - [gpt成品号购买前先看清：独享号、共享号和代充区别](gplus-cc/articles/gpt-chengpinhao-goumai.md)
 - [ChatGPT Plus 充值付费怎么付款？国内用户先看三条路径](gplus-cc/articles/chatgptplus-chongzhi-fufei.md)
