@@ -13,6 +13,7 @@ These guides are written for first-time users who want to avoid account confusio
 
 ## Articles
 
+- [如何用 Google 支付 GPT？先分清 Google Pay 和 Google Play](articles/google-pay-gpt.md)
 - [gpt成品号购买前先看清：独享号、共享号和代充区别](articles/gpt-chengpinhao-goumai.md)
 - [ChatGPT Plus 充值付费怎么付款？国内用户先看三条路径](articles/chatgptplus-chongzhi-fufei.md)
 - [没有境外卡如何给 GPT 充值？先分清卡、应用商店和卡密](articles/meiyou-jingwaika-gpt-chongzhi.md)
