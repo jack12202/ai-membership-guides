@@ -13,6 +13,7 @@ These guides are written for users who want to understand whether they should st
 
 ## Articles
 
+- [ChatGPT 一个月多少元？先看 Plus、Pro 和实际开通成本](articles/chatgpt-yigeyue-duoshaoyuan.md)
 - [chatGPT代充下单前怎么选：Plus、Pro 和成品号区别](articles/chatgpt-daichong-plus-pro.md)
 - [GPT Pro 是什么？和 Plus 区别、价格与升级建议](articles/gptpro-plus-pro-qubie.md)
 - [ChatGPT Plus 和 Pro 怎么选？升级前先确认这几件事](articles/upgrade-guide-pro.md)
