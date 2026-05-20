@@ -18,6 +18,7 @@ Each directory keeps its own brand and article index. The goal is to make the pu
 
 ## Latest Articles
 
+- [GPTPlus 会员怎么冲？新手先看三条开通路径](gplus-cc/articles/gptplus-huiyuan-zenme-chong.md)
 - [GPT Pro 多少钱一月？适合谁升级到 Pro](gpt4-pro/articles/gptpro-duoshaoqian-yiyue.md)
 - [ChatGPT 一个月多少元？先看 Plus、Pro 和实际开通成本](gpt4-pro/articles/chatgpt-yigeyue-duoshaoyuan.md)
 - [如何用 Google 支付 GPT？先分清 Google Pay 和 Google Play](gplus-cc/articles/google-pay-gpt.md)

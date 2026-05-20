@@ -13,6 +13,7 @@ These guides are written for first-time users who want to avoid account confusio
 
 ## Articles
 
+- [GPTPlus 会员怎么冲？新手先看三条开通路径](articles/gptplus-huiyuan-zenme-chong.md)
 - [如何用 Google 支付 GPT？先分清 Google Pay 和 Google Play](articles/google-pay-gpt.md)
 - [gpt成品号购买前先看清：独享号、共享号和代充区别](articles/gpt-chengpinhao-goumai.md)
 - [ChatGPT Plus 充值付费怎么付款？国内用户先看三条路径](articles/chatgptplus-chongzhi-fufei.md)
